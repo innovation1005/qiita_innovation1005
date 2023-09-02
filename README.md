@@ -1,2 +1,2 @@
-# qitta_innovation1005
+# qiita_innovation1005
 Qittaに掲載した記事のプログラムコード
